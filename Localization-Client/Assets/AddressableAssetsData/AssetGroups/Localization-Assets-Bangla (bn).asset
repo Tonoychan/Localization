@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Bangla (bn)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Bangla (bn)
+  m_GUID: 45d4672194c2f384d8e3a2e3ebfb458c
+  m_SerializeEntries:
+  - m_GUID: e440073d355c7224181754a2250161a4
+    m_Address: Flag_of_Bangladesh_Flat_Square-512x512
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-bn
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 2597aa83b958ed04a813720d2f7ccb2a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3f2f174faf3706249949ded323dd632c, type: 2}
+    - {fileID: 11400000, guid: d8c736c3c0f806442886aec369eecf83, type: 2}

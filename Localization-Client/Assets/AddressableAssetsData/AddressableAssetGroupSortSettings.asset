@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dea69d41f90c6ea4fa55c27c1d60c145, type: 3}
+  m_Name: AddressableAssetGroupSortSettings
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.GroupSchemas.AddressableAssetGroupSortSettings
+  sortOrder:
+  - 2646fdaf48e100645b9481f0a0d95168
+  - f15a587d949d9b04a9155fcb8d2d1a72
+  - afb882cd2da2d9943b9c2dff89e52673
+  - 50a55d1ba2a2f8440b705e132210f7a0
+  - fb0f410c0d368124b93f060da4eecb99
+  - d88f9c11799a66442b58a9faf7a5b2bd
+  - 3872810b54bf3824ba7b4791d87eb952
+  - 38f1277986a28ac4aab93b3cbfab01a9
+  - a82745b47532ef84982369eaaba24758
+  - c03e642a6b3233941b2426da68560c75
+  - e138b5477d910fe47ae453bab6124ad2
+  - dec40a05ba366ba4cb5f917bad3dd1a8
+  - 45d4672194c2f384d8e3a2e3ebfb458c
+  - 06af009d1bdb3824ca044d8a29ef0562
+  - 2117685baef9fa642b8c43c3d8abf670
+  - 9b7024b87aabb924283abae88c4a7f0e
+  - 8df32880838e42449a8b615d832c73e8
+  - a3fba6a6b6d0d4543ac1e1e943329bec
+  - 679f822ae15e98f4db9d9eb9a67dc20e
+  - 1f4e0727527d8c04ea9289381f8e9b3d
+  - 49ca9b1277079c048a5084331e2f82f9
+  - def836a2a5dcb1241bffa14e2c6afeca
+  - 33a8d3547f740454594690b8cff4abb9
+  - 26b9b91e9a8c7154a98413ac5521ca91
+  - c2984790189b25144aa2cedd48531d5a
+  - 771c6daeabd551a4887ee93e0b889191
+  - b9dab5c41deb65f4d8e41d63dcc62a0b
+  - 917b149506a3e25448fb17a51ab51937
+  - c0599c2690a1df74885583d0785aec50
+  - 616abd7275c2768459c07a30211b32d6
+  - 7dae477ab4e484c40b3ec00552b7be6b
+  - fbec6db5b07d1b645800ab9b92520e8d
+  - d0001ccc5a180154b9a6367bb3f74827
+  - 692c7fe8212f92b4a8c46c8cdc6ea94c
+  - af3230aa50c277a45abe43effe7c67b0
+  - 2a322c94d45823247ad1343569a1f606
+  - b522dd51c55396b478c209486ddbed65
+  - 7e373df96b90c3f4c87972e8dd1dd93c
+  - 424919b68040c9049b23f1c085616244
+  - 5ce586b6d5aaa13448787a981befa71b
+  - e7ee97a6a9a4e7a419e964c21019df0d
